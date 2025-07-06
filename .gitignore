@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+vnaddress/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# VSCode
+.vscode/
+
+# macOS
+.DS_Store
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Secrets
+.env
+
+# MyPy / Pyright / Pyre
+.mypy_cache/
+.pyre/
+.pytype/
+
+# Coverage / testing
+htmlcov/
+.coverage
+.cache/
+.tox/
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# IDEs
+.idea/
+*.swp
